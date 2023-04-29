@@ -9,4 +9,5 @@ SQL project to analyze online music store data
 -  PgAdmin4
 
 Schema- Music Store Database
+
 ![music system](https://user-images.githubusercontent.com/111775789/235296153-28741332-35c5-4464-b58b-a9e256eebe7a.png)
